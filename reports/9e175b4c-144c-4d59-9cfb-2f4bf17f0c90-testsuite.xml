@@ -1,0 +1,20 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1586849010045" stop="1586849010045">
+  <description>This is the tests collection phase. Failures are modules that failed to collect.</description>
+  <name>test_collection_phase</name>
+  <title>Collection phase</title>
+  <labels/>
+  <test-cases>
+    <test-case start="1586849010045" status="broken" stop="1586849010045">
+      <name>test_1</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>test_1.py:3: in &lt;module&gt;
+    @Features("一级目录")
+E   NameError: name 'Features' is not defined</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

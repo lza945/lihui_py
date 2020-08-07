@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-4JKTKJH",
+    "children" : [ {
+      "name" : "20348-MainThread",
+      "children" : [ {
+        "name" : "test_answer",
+        "uid" : "bfad3c944762b1b1",
+        "parentUid" : "95139ccc48e0f0ab23a9839effb89244",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586846499078,
+          "stop" : 1586846499089,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_answer1",
+        "uid" : "ece477e8a95454a7",
+        "parentUid" : "95139ccc48e0f0ab23a9839effb89244",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586846499090,
+          "stop" : 1586846499091,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "95139ccc48e0f0ab23a9839effb89244"
+    } ],
+    "uid" : "c1710efb07d23f4275a5eaa654836651"
+  } ]
+}
